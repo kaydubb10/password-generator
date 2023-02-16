@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 17d33641a28dc963f60dd7d14ae142f50afd859b
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
